@@ -57,7 +57,7 @@ int main() // 엔트리 포인트 (코드가 시작되는 곳)
     std::cin >> age;
     printf("당신의 나이는 : %d", age);
 
-    // 커밋1
+    // 브랜치
 
     return 0;
 }
