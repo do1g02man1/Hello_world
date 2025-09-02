@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\Helloworld\Helloworld\header.cpp" />
     <ClCompile Include="Hello_world.cpp" />
+    <ClCompile Include="pyramid.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Helloworld\Helloworld\header.h" />
