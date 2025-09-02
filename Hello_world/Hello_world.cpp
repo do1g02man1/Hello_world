@@ -24,7 +24,7 @@ Ctrl + Space : 자동 완성 기능 (인텔리센스)
 #include <iostream> // 입출력 관련
 #include <stdio.h>
 #include <cstdio> // stdio.h에 네임 스페이스 추가한 래퍼
-#include "header.h"
+// #include "header.h"
 
 int main() // 엔트리 포인트 (코드가 시작되는 곳)
 {
@@ -57,7 +57,7 @@ int main() // 엔트리 포인트 (코드가 시작되는 곳)
     std::cin >> age;
     printf("당신의 나이는 : %d", age);
 
-    // ㅇ
+    // 커밋1
 
     return 0;
 }
